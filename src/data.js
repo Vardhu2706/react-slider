@@ -6,7 +6,7 @@ const people = [
     name: "maria ferguson",
     title: "office manager",
     quote:
-      "Fingerstache umami squid, kinfolk subway tile selvage tumblr man braid viral kombucha gentrify fanny pack raclette pok pok mustache.",
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
   },
   {
     id: 2,
@@ -15,7 +15,7 @@ const people = [
     name: "john doe",
     title: "regular guy",
     quote:
-      "Gastropub sustainable tousled prism occupy. Viral XOXO roof party brunch actually, chambray listicle microdosing put a bird on it paleo subway tile squid umami.",
+      "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
   },
   {
     id: 3,
@@ -24,7 +24,7 @@ const people = [
     name: "peter smith",
     title: "product designer",
     quote:
-      "Drinking vinegar polaroid street art echo park, actually semiotics next level butcher master cleanse hammock flexitarian ethical paleo.",
+      "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
   },
   {
     id: 4,
@@ -33,7 +33,7 @@ const people = [
     name: "susan andersen",
     title: "the boss",
     quote:
-      "Marfa af yr 3 wolf moon kogi, readymade distillery asymmetrical seitan kale chips fingerstache cloud bread mustache twee messenger bag. ",
+      "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
   },
 ];
 
